@@ -1,0 +1,4 @@
+- name: Notion Card Creator
+  uses: wcchristian/gh-action-notion-card@v1.0.0
+  NOTION_TOKEN :4504585fc0ab6c70b6ddc4c6e33a19536002850aab541494efa9a710ba47fe4b2f611ca1e7df8ce3bd954cf2614606e78673a5c8cf5d6e01df34ccdd6bdcb0b3b9c518cf4d1b81d0c353bdaba3ac
+  COLLECTION_URL :https://www.notion.so/dodo4114/bc92e5047ade411186b3c73853908336?v=64411b644e564f19b8866eb57bc012dd
